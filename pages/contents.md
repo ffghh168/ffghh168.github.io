@@ -1,4 +1,4 @@
-- [[首頁 - Home]]
-- [:a {:href "#/all-journals"} "札記 - Journals"]
--
+### [[首頁 - Home]]
+- <h3><a href="#/all-journals">札記 - Journals</a></h3>
+- ---
 -
