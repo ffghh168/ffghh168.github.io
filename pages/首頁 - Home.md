@@ -1,3 +1,4 @@
-- [:h1 {:style "text-align:center;"} "絳霞的個人首頁"]
-- [:img {:src "../assets/Profile.jpg" :style "height:128px; width:128px;"}]
+- <h1><div style="text-align:center;">絳霞的個人首頁</div></h1>
+- <img src="../assets/Profile.jpg" style="height:128; width:128;"/>
+-
 -
