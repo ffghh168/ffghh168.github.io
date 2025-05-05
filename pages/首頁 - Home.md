@@ -1,2 +1,3 @@
-# 絳霞的個人首頁
-![e (2).jpg](../assets/e_(2)_1746182163946_0.jpg)
+- <h1><div style="text-align:center;">絳霞的個人首頁</div></h1>
+- <img src="../assets/Profile.jpg" style="height:128; width:128;"/>
+-

@@ -1,1 +1,4 @@
 - [[首頁 - Home]]
+- <a href="#/all-journals">札記 - Journals</a>
+-
+-
